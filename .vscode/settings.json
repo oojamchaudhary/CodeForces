@@ -18,6 +18,10 @@
         "span": "cpp",
         "stacktrace": "cpp",
         "regex": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "ostream": "cpp"
     }
 }
